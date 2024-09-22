@@ -5,29 +5,45 @@
 Key Features :
 
 🔹 Total Loan Applications: Tracks total applications, Month-to-Date (MTD) applications, and Month-over-Month (MoM) trends.
+
 🔹 Total Funded Amount: Analyzes the total disbursed funds with MTD and MoM comparisons to monitor funding trends.
+
 🔹 Cash Flow Insights: Monitors the total amount received from borrowers, alongside MTD and MoM changes for better cash flow management.
+
 🔹 Average Interest Rate: Calculates and tracks average interest rates, providing a clear view of lending costs over time.
+
 🔹 Debt-to-Income Ratio (DTI): Evaluates borrowers' financial health with average DTI calculations, MTD analysis, and MoM fluctuations.
 
 ✔ Good Loan vs. Bad Loan Metrics:
 
 The report also distinguishes between good and bad loans, offering insights into:
+
 ⏺ Good Loan Application Percentage
+
 ⏺ Bad Loan Application Percentage
+
 ⏺ Funded amounts and total received for both categories
 
 🔶 Visual Insights:
 
 I utilized a variety of visuals to enhance data representation:
+
 📈 KPI Cards for quick performance metrics
+
 📊 Bar Charts for comparative analysis
+
 📉 Line Charts to visualize trends over time
+
 🉑 Donut Charts for proportional insights
+
 🚰 Table Visuals for detailed information
+
 🗺 Fill Map to show geographic distribution
+
 💹 Treemaps for hierarchical data representation
+
 ➡ Filters and Slicers to enable dynamic data exploration
+
 ⏹ The grid view report categorizes all loans by status, presenting a clear overview of metrics like total applications, funded amounts, and average interest rates. 
 
 1. **SQL Server:**
